@@ -123,6 +123,7 @@ h2 {
 p {
     text-indent: 35px;
     font-size: 20px;
+    text-align: justify;
     word-break: inherit;
 }
 
